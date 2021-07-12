@@ -175,8 +175,8 @@ Work through the files in the section1/exercises directory.  Complete them in th
 1. numbers   ✓
 1. booleans  ✓
 1. variables ✓
-1. interpolation  
-1. loops
+1. interpolation ✓
+1. loops ✓
 
 ## Questions
 - Each day contains a reflections.md file where you will answer questions about what you have learned.
