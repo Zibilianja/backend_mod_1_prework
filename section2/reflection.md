@@ -82,4 +82,4 @@ hello_someone("Jon")
 ```
 
 1. What questions do you have about methods in Ruby?
-### Mostly I will just need to get used to the new syntax, also how they are formatted and called within objects and larger programs in general vs functions. 
+### Mostly I will just need to get used to the new syntax, also how they are formatted and called within objects and larger programs in general vs functions.
