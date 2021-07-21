@@ -47,7 +47,9 @@ end
 
 ### An instance is created when using the initialize function of classes. I added the initialize function to the class above and would initialize a new class instance by typing:
 
-`kogen = Dog.new("Kogen", 8, 65)`
+```ruby
+kogen = Dog.new("Kogen", 8, 65)
+```
 
 1. What questions do you still have about classes in Ruby?
 
